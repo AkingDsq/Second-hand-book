@@ -25,11 +25,24 @@
 
 ## 配置Qt安卓环境 
 
-1.查看编辑-preferences-构建套件中是否含有安卓相关套件 
-2.查看编辑-preferences-SDKs中是否配置安卓环境 
+### 初查 
 
+1.查看编辑-preferences-构建套件中是否含有安卓相关套件 
+
+2.查看编辑-preferences-SDKs中是否配置安卓环境 
 
 ![安卓环境2.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境2.png)  
 ![安卓环境3.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境3.png)  
 ![安卓环境1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境1.png)  
 
+### OpenSSL 
+
+已上传群文件以及本项目根目录images文件夹中，解压配置位置即可 
+
+![android_openssl-master.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/android_openssl-master.png)  
+
+### SDK管理器 
+
+![安卓环境2.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器2.png)  
+
+![SDK管理器1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器1.png)  
