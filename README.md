@@ -6,13 +6,15 @@
 
 选择组件： 
 
-![Qt组件3.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件3.png)
-![Qt组件4.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件4.png)
-![Qt组件1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件1.png) 
+![Qt组件3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件3.png)
+![Qt组件4](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件4.png)
+![Qt组件1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/Qt组件1.png) 
 
 ## 下载GithubDesktop 
 
 `https://central.github.com/deployments/desktop/desktop/latest/win32` 
+
+### 汉化程序已上传至群文件，运行汉化即可 
 
 ## 下载加速软件加速Github 
 
@@ -20,8 +22,8 @@
 
 ## 克隆项目 
 
-![githubDesktop1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop1.png)  
-![githubDesktop2.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop2.png) 
+![githubDesktop1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop1.png)  
+![githubDesktop2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop2.png) 
 
 ## 配置Qt安卓环境 
 
@@ -31,9 +33,9 @@
 
 2.查看编辑-preferences-SDKs中是否配置安卓环境 
 
-![安卓环境2.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境2.png)  
-![安卓环境3.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境3.png)  
-![安卓环境1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境1.png)  
+![安卓环境2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境2.png)  
+![安卓环境3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境3.png)  
+![安卓环境1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境1.png)  
 
 ### OpenSSL 
 
@@ -43,6 +45,28 @@
 
 ### SDK管理器 
 
-![安卓环境2.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器2.png)  
+查补缺漏即可 
 
-![SDK管理器1.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器1.png)  
+![安卓环境2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器2.png)  
+
+![SDK管理器1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/SDK管理器1.png)  
+
+## 测试 
+
+### 实机测试（手机型号不同可能无法运行程序，主要针对arm64-v8a架构） 
+
+### 打开手机开发者模式 
+
+#### 手机-设置-关于手机-XX版本（此例中为HarmonyOS版本） 
+
+![实机测试](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试.jpg)  
+
+#### 多次点击进入开发者模式，在设置-系统和更新中会出现新的选项（开发人员选项），进入打开调试中的USB调试 
+
+![实机测试2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试2.jpg)  
+
+#### 使用USB连接手机与电脑 
+
+选择你的手机设备与构建套件以及构建版本即可在手机上安装安卓程序 
+
+![实机测试3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试3.png)  
