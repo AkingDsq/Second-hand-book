@@ -1,0 +1,10 @@
+-I
+D:/git/work/Second-hand-book-trading-platform/build/Qt_6_8_2_Clang_arm64_v8a-Debug
+-I
+E:/Qt/6.8.2/android_arm64_v8a/qml
+--resource
+D:/git/work/Second-hand-book-trading-platform/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/qmake_Second-hand-book-trading-platform.qrc
+--resource
+D:/git/work/Second-hand-book-trading-platform/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/appSecond-hand-book-trading-platform_raw_qml_0.qrc
+--module
+Second-hand-book-trading-platform

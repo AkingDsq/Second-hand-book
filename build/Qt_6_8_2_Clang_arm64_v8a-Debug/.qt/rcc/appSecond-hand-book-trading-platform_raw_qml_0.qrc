@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Second-hand-book-trading-platform/">
+    <file alias="Main.qml">D:/git/work/Second-hand-book-trading-platform/Main.qml</file>
+  </qresource>
+</RCC>
+

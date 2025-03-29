@@ -1,0 +1,286 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-49056234f15f2940278f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Second-hand-book-trading-platform",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-207f906cff01792d2543.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-6766f8ac935e2b4387c5.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-4548be5f2aef1d932757.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-abd1ec0476a956690dff.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-613f0c438855307d3331.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6cf58e5a9a373ce70335.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-93855ae60530d02a1fcd.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-965b503e3a40875ad2e9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-7c30ef5e861871e53bc7.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-79e9e1c1141f764834bf.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform-Debug-c85c02269b8c30f3ac9d.json",
+					"name" : "appSecond-hand-book-trading-platform",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_autogen-Debug-27d820f4b7dd2603bd97.json",
+					"name" : "appSecond-hand-book-trading-platform_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_autogen_timestamp_deps-Debug-ca1c56ac5e071cd5ec92.json",
+					"name" : "appSecond-hand-book-trading-platform_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_copy_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_copy_apk_dependencies-Debug-8c5253293bb17410fccd.json",
+					"name" : "appSecond-hand-book-trading-platform_copy_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_copy_qml-Debug-2dfd3a5454c98eeb7840.json",
+					"name" : "appSecond-hand-book-trading-platform_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_copy_res-Debug-ffef44d48fba9289a099.json",
+					"name" : "appSecond-hand-book-trading-platform_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_make_aab-Debug-00f9cd20f2a8cc84e08f.json",
+					"name" : "appSecond-hand-book-trading-platform_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_make_aar-Debug-7a19136ce34d87062bc5.json",
+					"name" : "appSecond-hand-book-trading-platform_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_make_apk-Debug-e0e94622a9706490571b.json",
+					"name" : "appSecond-hand-book-trading-platform_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_prepare_apk_dir-Debug-2ca6bb2b44d824275315.json",
+					"name" : "appSecond-hand-book-trading-platform_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_qmllint-Debug-e89302d09bbeb5d77bc5.json",
+					"name" : "appSecond-hand-book-trading-platform_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_qmllint_json-Debug-96143b008f48777205ab.json",
+					"name" : "appSecond-hand-book-trading-platform_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_qmllint_module-Debug-468cfdd52e4d260ae986.json",
+					"name" : "appSecond-hand-book-trading-platform_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSecond-hand-book-trading-platform_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSecond-hand-book-trading-platform_qmltyperegistration-Debug-4632ab743665d7464f38.json",
+					"name" : "appSecond-hand-book-trading-platform_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSecond-hand-book-trading-platform_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSecond-hand-book-trading-platform_aotstats_target-Debug-bbb9f9acf9ffa74c2d6c.json",
+					"name" : "module_appSecond-hand-book-trading-platform_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-2b93d62bf828a5c0fdca.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/git/work/Second-hand-book-trading-platform/build/Qt_6_8_2_Clang_arm64_v8a-Debug",
+		"source" : "D:/git/work/Second-hand-book-trading-platform"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
