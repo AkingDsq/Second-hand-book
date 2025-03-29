@@ -25,6 +25,11 @@
 ![githubDesktop1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop1.png)  
 ![githubDesktop2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop2.png) 
 
+
+## 打开项目 
+
+打开QtCreater，选择打开项目，选择此项目文件夹中的CMakeLists.txt即可
+
 ## 配置Qt安卓环境 
 
 ### 初查 
