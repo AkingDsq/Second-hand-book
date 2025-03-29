@@ -65,7 +65,7 @@
 
 #### 使用USB连接手机与电脑（如果有手机弹窗，选择传输文件） 
 
-选择你的手机设备与构建套件以及构建版本即可在手机上安装安卓程序 
+选择你的手机设备与构建套件以及构建版本，点击左下角的运行按钮（或者点击ctrl+R）即可在手机上安装安卓程序 
 
 ![实机测试3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试3.png)  
 
