@@ -26,9 +26,11 @@
 ![githubDesktop2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/githubDesktop2.png) 
 
 
-## 打开项目 
+## 打开项目(建议根据下面的步骤配置好Qt安卓环境后再打开防止出错，直接打开也可以但是如果没有安卓环境会报错，配置完环境后重新进入也可) 
 
-打开QtCreater，选择打开项目，选择此项目文件夹中的CMakeLists.txt即可
+打开QtCreater，选择打开项目，选择此项目文件夹中的CMakeLists.txt即可 
+
+![打开项目](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/打开项目.png) 
 
 ## 配置Qt安卓环境 
 
@@ -42,9 +44,9 @@
 ![安卓环境3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境3.png)  
 ![安卓环境1](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/安卓环境1.png)  
 
-### OpenSSL 
+### 配置OpenSSL 
 
-已上传群文件以及本项目根目录images文件夹中，解压配置位置即可 
+OpenSSL下载源文件是国外资源，下载速度慢而且容易中断，已上传群文件以及本项目根目录images文件夹中，解压配置位置即可 
 
 ![android_openssl-master.png](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/android_openssl-master.png)  
 
