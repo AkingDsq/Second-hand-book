@@ -1,5 +1,0 @@
-module Second-hand-book-trading-platform
-typeinfo appSecond-hand-book-trading-platform.qmltypes
-prefer :/qt/qml/Second-hand-book-trading-platform/
-Main 1.0 Main.qml
-
