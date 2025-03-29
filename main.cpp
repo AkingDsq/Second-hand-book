@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
         &app,
         []() { QCoreApplication::exit(-1); },
         Qt::QueuedConnection);
-    engine.loadFromModule("Second-hand-book-trading-platform", "Main");
+    engine.loadFromModule("Second-hand-book", "Main");
 
     return app.exec();
 }
