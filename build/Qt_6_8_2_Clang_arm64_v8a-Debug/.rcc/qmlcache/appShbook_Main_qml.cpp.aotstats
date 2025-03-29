@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "onSourceChanged",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1066,
+                        "errorMessage": "Cannot generate efficient code for SetUnwindHandlerh",
+                        "functionName": "onCompleted",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name currentUser",
+                        "functionName": "onLoginSuccess",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "onRegisterSuccess",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 9,
+                        "durationMicroseconds": 219,
+                        "errorMessage": "",
+                        "functionName": "onLogout",
+                        "line": 80
+                    }
+                ],
+                "filepath": "D:/git/work/Shbook/Main.qml"
+            }
+        ],
+        "moduleId": "Shbook(appShbook)"
+    }
+]

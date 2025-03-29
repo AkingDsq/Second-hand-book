@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.qtproject.example.appShbook"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="28"
+10        android:targetSdkVersion="34" />
+11
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:7:5-80
+12-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:8:5-68
+13-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:9:5-82
+14-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:9:22-78
+15
+16    <supports-screens
+16-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:11:5-15:39
+17        android:anyDensity="true"
+17-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:12:9-34
+18        android:largeScreens="true"
+18-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:13:9-36
+19        android:normalScreens="true"
+19-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:14:9-37
+20        android:smallScreens="true" />
+20-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:15:9-36
+21
+22    <permission
+22-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+23        android:name="org.qtproject.example.appShbook.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="org.qtproject.example.appShbook.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:16:5-52:19
+29        android:name="org.qtproject.qt.android.bindings.QtApplication"
+29-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:17:9-71
+30        android:allowBackup="true"
+30-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:21:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.13.1] C:\Users\dsq2\.gradle\caches\8.10\transforms\614f50bb2b90647a5f75820a3da4b2e4\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="true"
+34        android:fullBackupOnly="false"
+34-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:22:9-39
+35        android:hardwareAccelerated="true"
+35-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:18:9-43
+36        android:label="appShbook"
+36-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:19:9-34
+37        android:requestLegacyExternalStorage="true" >
+37-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:20:9-52
+38        <activity
+38-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:23:9-41:20
+39            android:name="org.qtproject.qt.android.bindings.QtActivity"
+39-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:24:13-72
+40            android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation|mcc|mnc|density"
+40-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:25:13-182
+41            android:exported="true"
+41-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:28:13-36
+42            android:launchMode="singleTop"
+42-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:26:13-43
+43            android:screenOrientation="unspecified" >
+43-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:27:13-52
+44            <intent-filter>
+44-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:29:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:30:17-69
+45-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:30:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:31:17-77
+47-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49
+50            <meta-data
+50-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:34:11-36:45
+51                android:name="android.app.lib_name"
+51-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:35:17-52
+52                android:value="appShbook" />
+52-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:36:17-42
+53            <meta-data
+53-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:38:11-40:36
+54                android:name="android.app.arguments"
+54-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:39:17-53
+55                android:value="" />
+55-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:40:17-33
+56        </activity>
+57
+58        <provider
+59            android:name="androidx.core.content.FileProvider"
+59-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:44:13-62
+60            android:authorities="org.qtproject.example.appShbook.qtprovider"
+60-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:45:13-62
+61            android:exported="false"
+61-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:46:13-37
+62            android:grantUriPermissions="true" >
+62-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:47:13-47
+63            <meta-data
+63-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:48:13-50:59
+64                android:name="android.support.FILE_PROVIDER_PATHS"
+64-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:49:17-67
+65                android:resource="@xml/qtprovider_paths" />
+65-->D:\git\work\Shbook\build\Qt_6_8_2_Clang_arm64_v8a-Debug\android-build-appShbook\AndroidManifest.xml:50:17-57
+66        </provider>
+67        <provider
+67-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+69            android:authorities="org.qtproject.example.appShbook.androidx-startup"
+69-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+70            android:exported="false" >
+70-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+73                android:value="androidx.startup" />
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+74        </provider>
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\dsq2\.gradle\caches\8.10\transforms\acbc698e3f0c16775281193bdfceb4d0\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>

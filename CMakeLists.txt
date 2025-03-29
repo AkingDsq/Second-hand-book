@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 
-project(Second-hand-book VERSION 0.1 LANGUAGES CXX)
+project(Shbook VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
@@ -8,36 +8,35 @@ find_package(Qt6 REQUIRED COMPONENTS Quick)
 
 qt_standard_project_setup(REQUIRES 6.8)
 
-qt_add_executable(Second-hand-book
+qt_add_executable(appShbook
     main.cpp
 )
 
-qt_add_qml_module(Second-hand-book
-    URI Second-hand-book
+qt_add_qml_module(appShbook
+    URI Shbook
     VERSION 1.0
     QML_FILES
         Main.qml
-        QML_FILES LoginOn.qml
-        QML_FILES Home.qml
+        QML_FILES Home.qml LoginOn.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
 # If you are developing for iOS or macOS you should consider setting an
 # explicit, fixed bundle identifier manually though.
-set_target_properties(Second-hand-book PROPERTIES
-#    MACOSX_BUNDLE_GUI_IDENTIFIER com.example.appSecond-hand-book-trading-platform
+set_target_properties(appShbook PROPERTIES
+#    MACOSX_BUNDLE_GUI_IDENTIFIER com.example.appShbook
     MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
     MACOSX_BUNDLE_SHORT_VERSION_STRING ${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}
     MACOSX_BUNDLE TRUE
     WIN32_EXECUTABLE TRUE
 )
 
-target_link_libraries(Second-hand-book
+target_link_libraries(appShbook
     PRIVATE Qt6::Quick
 )
 
 include(GNUInstallDirs)
-install(TARGETS Second-hand-book
+install(TARGETS appShbook
     BUNDLE DESTINATION .
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}

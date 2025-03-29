@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Shbook">
+    <file alias="qmldir">D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/Shbook/qmldir</file>
+  </qresource>
+</RCC>
+

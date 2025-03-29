@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+array bundled_libs
+array load_local_libs
+array qt_libs
+string bundle_local_qt_libs
+string fatal_error_msg
+string static_init_classes
+string system_libs_prefix
+string use_local_qt_libs
+xml qtprovider_paths

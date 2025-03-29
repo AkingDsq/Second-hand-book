@@ -1,0 +1,7 @@
+module Shbook
+typeinfo appShbook.qmltypes
+prefer :/qt/qml/Shbook/
+Main 1.0 Main.qml
+Home 1.0 Home.qml
+LoginOn 1.0 LoginOn.qml
+

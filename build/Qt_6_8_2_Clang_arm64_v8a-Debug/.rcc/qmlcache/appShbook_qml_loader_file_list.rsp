@@ -1,0 +1,7 @@
+--resource
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/qmake_Shbook.qrc
+--resource
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/appShbook_raw_qml_0.qrc
+/qt/qml/Shbook/Main.qml
+/qt/qml/Shbook/Home.qml
+/qt/qml/Shbook/LoginOn.qml

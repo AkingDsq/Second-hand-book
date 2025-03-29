@@ -1,0 +1,14 @@
+-rootPath
+D:/git/work/Shbook
+-cmake-output
+-output-file
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/qml_imports/appShbook_conf.cmake
+-importPath
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/Shbook
+-importPath
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug
+-importPath
+E:/Qt/6.8.2/android_arm64_v8a/qml
+-qrcFiles
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/qmake_Shbook.qrc
+D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/appShbook_raw_qml_0.qrc

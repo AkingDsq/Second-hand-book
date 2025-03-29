@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Shbook/">
+    <file alias="Main.qml">D:/git/work/Shbook/Main.qml</file>
+    <file alias="Home.qml">D:/git/work/Shbook/Home.qml</file>
+    <file alias="LoginOn.qml">D:/git/work/Shbook/LoginOn.qml</file>
+  </qresource>
+</RCC>
+
