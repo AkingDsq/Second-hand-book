@@ -57,16 +57,18 @@
 
 ### 打开手机开发者模式 
 
-#### 手机-设置-关于手机-XX版本（此例中为HarmonyOS版本） 
+#### 手机：“设置-关于手机-XX版本”（此例中为HarmonyOS版本），多次点击进入开发者模式，在”设置-系统和更新“中会出现新的选项（开发人员选项），进入，打开调试中的USB调试
 
 ![实机测试](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试.jpg)  
 
-#### 多次点击进入开发者模式，在设置-系统和更新中会出现新的选项（开发人员选项），进入打开调试中的USB调试 
-
 ![实机测试2](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试2.jpg)  
 
-#### 使用USB连接手机与电脑 
+#### 使用USB连接手机与电脑（如果有手机弹窗，选择传输文件） 
 
 选择你的手机设备与构建套件以及构建版本即可在手机上安装安卓程序 
 
 ![实机测试3](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/实机测试3.png)  
+
+### 画面预览 
+
+![画面预览](https://github.com/AkingDsq/Second-hand-book-trading-platform/blob/main/images/画面预览.png)  
