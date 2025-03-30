@@ -18,6 +18,17 @@ qt_add_qml_module(appShbook
     QML_FILES
         Main.qml
         QML_FILES Home.qml LoginOn.qml
+        QML_FILES HomePage.qml
+        QML_FILES
+        QML_FILES PublishPage.qml
+        QML_FILES MessagesPage.qml
+        QML_FILES ProfilePage.qml
+        QML_FILES
+        QML_FILES
+        QML_FILES
+        QML_FILES ChatItemDelegate.qml
+        QML_FILES ChatDetailPage.qml
+        QML_FILES MessageDelegate.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

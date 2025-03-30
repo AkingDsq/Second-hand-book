@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 266,
+                        "durationMicroseconds": 410,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 13,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 9
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 216,
+                        "durationMicroseconds": 148,
                         "errorMessage": "",
                         "functionName": "theme",
                         "line": 16
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 212,
+                        "durationMicroseconds": 120,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 22
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 30
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 229,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 28
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 45,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 36
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 486,
+                        "durationMicroseconds": 455,
                         "errorMessage": "",
                         "functionName": "contentHeight",
                         "line": 42
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 100,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 41
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 49
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 55
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 129,
+                        "durationMicroseconds": 248,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 56
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 117,
+                        "durationMicroseconds": 188,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 57
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 96,
+                        "durationMicroseconds": 175,
                         "errorMessage": "",
                         "functionName": "radius",
                         "line": 64
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 63
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 78,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 72
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 121,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 82
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 42,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 83
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 92
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 42,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 96,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 93
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 102
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 150,
+                        "durationMicroseconds": 247,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 109
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 222,
+                        "durationMicroseconds": 416,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 110
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 166,
                         "errorMessage": "",
                         "functionName": "currentIndex",
                         "line": 112
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 197,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 111
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 89,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 120
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 186,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 140
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 186,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 142
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "echoMode",
                         "line": 153
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 199,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 167
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 125,
+                        "durationMicroseconds": 240,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 169
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 49,
-                        "durationMicroseconds": 289,
+                        "durationMicroseconds": 542,
                         "errorMessage": "",
                         "functionName": "source",
                         "line": 176
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 245,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 178
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 96,
+                        "durationMicroseconds": 183,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 180
@@ -278,7 +278,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 472,
+                        "durationMicroseconds": 721,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 186
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 102,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 185
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 207,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QQuickMaterialStyle::accent with type QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 211
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 168,
+                        "durationMicroseconds": 324,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 217
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 216
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 284,
+                        "durationMicroseconds": 541,
                         "errorMessage": "method loginSuccess cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 237
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 54,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 187,
                         "errorMessage": "",
                         "functionName": "background",
                         "line": 229
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 270,
+                        "durationMicroseconds": 254,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QQuickMaterialStyle::background with type QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 234
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 274
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 128,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 280
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 60,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 289
@@ -366,7 +366,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 142,
+                        "durationMicroseconds": 315,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 293
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 45,
+                        "durationMicroseconds": 94,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 292
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 128,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 301
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 130,
+                        "durationMicroseconds": 261,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 305
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 89,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 304
@@ -406,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 313
@@ -414,7 +414,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 278,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 317
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 45,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 316
@@ -430,7 +430,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 83,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 335
@@ -438,7 +438,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 167,
                         "errorMessage": "",
                         "functionName": "inputMethodHints",
                         "line": 347
@@ -446,7 +446,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 123,
+                        "durationMicroseconds": 196,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 356
@@ -454,7 +454,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 358
@@ -462,7 +462,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 132,
                         "errorMessage": "",
                         "functionName": "inputMethodHints",
                         "line": 374
@@ -470,7 +470,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 114,
+                        "durationMicroseconds": 188,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 383
@@ -478,7 +478,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 161,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 385
@@ -486,7 +486,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 48,
-                        "durationMicroseconds": 872,
+                        "durationMicroseconds": 1364,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 422
@@ -494,7 +494,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 225,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 394
@@ -502,7 +502,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 61,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 190,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 396
@@ -510,7 +510,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 58,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "background",
                         "line": 401
@@ -518,7 +518,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 54,
-                        "durationMicroseconds": 934,
+                        "durationMicroseconds": 1679,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 410
@@ -526,7 +526,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 127,
                         "errorMessage": "",
                         "functionName": "echoMode",
                         "line": 437
@@ -534,7 +534,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 111,
+                        "durationMicroseconds": 147,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 451
@@ -542,7 +542,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 128,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 453
@@ -550,7 +550,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 49,
-                        "durationMicroseconds": 283,
+                        "durationMicroseconds": 537,
                         "errorMessage": "",
                         "functionName": "source",
                         "line": 460
@@ -558,7 +558,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 211,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 462
@@ -566,7 +566,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 97,
+                        "durationMicroseconds": 173,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 464
@@ -574,7 +574,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 380,
+                        "durationMicroseconds": 712,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 470
@@ -582,7 +582,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 168,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 469
@@ -590,7 +590,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 162,
                         "errorMessage": "",
                         "functionName": "echoMode",
                         "line": 483
@@ -598,7 +598,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 497
@@ -606,7 +606,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 499
@@ -614,7 +614,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 49,
-                        "durationMicroseconds": 272,
+                        "durationMicroseconds": 347,
                         "errorMessage": "",
                         "functionName": "source",
                         "line": 506
@@ -622,7 +622,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 211,
+                        "durationMicroseconds": 131,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 508
@@ -630,7 +630,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 179,
+                        "durationMicroseconds": 119,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 510
@@ -638,7 +638,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 56,
-                        "durationMicroseconds": 567,
+                        "durationMicroseconds": 463,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 516
@@ -646,7 +646,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 515
@@ -654,7 +654,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 117,
+                        "durationMicroseconds": 201,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QQuickMaterialStyle::accent with type QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 546
@@ -662,7 +662,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 184,
+                        "durationMicroseconds": 251,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 552
@@ -670,7 +670,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 551
@@ -678,7 +678,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 121,
+                        "durationMicroseconds": 187,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QQuickMaterialStyle::accent with type QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 564
@@ -686,7 +686,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 234,
+                        "durationMicroseconds": 294,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 570
@@ -694,7 +694,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 569
@@ -702,7 +702,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 310,
+                        "durationMicroseconds": 597,
                         "errorMessage": "method registerSuccess cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 592
@@ -710,7 +710,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 54,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 134,
                         "errorMessage": "",
                         "functionName": "background",
                         "line": 584
@@ -718,7 +718,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 205,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QQuickMaterialStyle::background with type QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 589
@@ -726,7 +726,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "currentIndex",
                         "line": 611
@@ -734,7 +734,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 139,
+                        "durationMicroseconds": 153,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 615
@@ -742,7 +742,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "position",
                         "line": 617
@@ -750,7 +750,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 122,
+                        "durationMicroseconds": 137,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 612
@@ -758,7 +758,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 127,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 614
@@ -766,7 +766,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 150,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
                         "functionName": "bold",
                         "line": 628
@@ -774,7 +774,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 323,
+                        "durationMicroseconds": 364,
                         "errorMessage": "",
                         "functionName": "foreground",
                         "line": 629
@@ -782,7 +782,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 130,
+                        "durationMicroseconds": 145,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 636
@@ -790,7 +790,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 369,
+                        "durationMicroseconds": 1194,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 638
@@ -798,7 +798,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 116,
+                        "durationMicroseconds": 257,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 634
@@ -806,7 +806,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 843,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 635
@@ -814,7 +814,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 163,
+                        "durationMicroseconds": 552,
                         "errorMessage": "",
                         "functionName": "bold",
                         "line": 646
@@ -822,7 +822,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 292,
+                        "durationMicroseconds": 598,
                         "errorMessage": "",
                         "functionName": "foreground",
                         "line": 647
@@ -830,7 +830,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 181,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 654
@@ -838,7 +838,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 381,
+                        "durationMicroseconds": 518,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 656
@@ -846,7 +846,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 145,
+                        "durationMicroseconds": 203,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 652
@@ -854,7 +854,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 653

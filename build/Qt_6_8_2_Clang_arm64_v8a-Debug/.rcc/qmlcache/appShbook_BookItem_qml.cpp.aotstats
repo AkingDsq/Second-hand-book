@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 608,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 206,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 72
+                    }
+                ],
+                "filepath": "D:/git/work/Shbook/BookItem.qml"
+            }
+        ],
+        "moduleId": "Shbook(appShbook)"
+    }
+]

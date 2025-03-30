@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 291,
+                        "durationMicroseconds": 534,
                         "errorMessage": "",
                         "functionName": "theme",
                         "line": 19
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 146,
+                        "durationMicroseconds": 356,
                         "errorMessage": "",
                         "functionName": "onSourceChanged",
                         "line": 30
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 151,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 26
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 69,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 40
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "type",
                         "line": 45
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 1066,
+                        "durationMicroseconds": 1816,
                         "errorMessage": "Cannot generate efficient code for SetUnwindHandlerh",
                         "functionName": "onCompleted",
                         "line": 50
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 170,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 62
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 9,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 77,
                         "errorMessage": "Cannot access value for name currentUser",
                         "functionName": "onLoginSuccess",
                         "line": 65
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 9,
-                        "durationMicroseconds": 121,
+                        "durationMicroseconds": 240,
                         "errorMessage": "",
                         "functionName": "onRegisterSuccess",
                         "line": 74
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 9,
-                        "durationMicroseconds": 219,
+                        "durationMicroseconds": 436,
                         "errorMessage": "",
                         "functionName": "onLogout",
                         "line": 80

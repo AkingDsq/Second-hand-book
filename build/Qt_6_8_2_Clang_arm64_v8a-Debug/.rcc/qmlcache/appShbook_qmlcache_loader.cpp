@@ -26,6 +26,55 @@ namespace _qt_qml_Shbook_LoginOn_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _qt_qml_Shbook_HomePage_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_PublishPage_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_MessagesPage_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_ProfilePage_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_ChatItemDelegate_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_ChatDetailPage_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
+namespace _qt_qml_Shbook_MessageDelegate_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -43,6 +92,13 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_Main_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/Home.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_Home_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/LoginOn.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_LoginOn_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/HomePage.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_HomePage_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/PublishPage.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_PublishPage_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/MessagesPage.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_MessagesPage_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/ProfilePage.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_ProfilePage_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/ChatItemDelegate.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_ChatItemDelegate_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/ChatDetailPage.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_ChatDetailPage_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/Shbook/MessageDelegate.qml"), &QmlCacheGeneratedCode::_qt_qml_Shbook_MessageDelegate_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

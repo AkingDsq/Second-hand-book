@@ -35,6 +35,10 @@
         <item>arm64-v8a;Qt6QuickEffects_arm64-v8a</item>
         <item>arm64-v8a;Qt6QuickLayouts_arm64-v8a</item>
         <item>arm64-v8a;Qt6QuickShapes_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickDialogs2Utils_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickDialogs2QuickImpl_arm64-v8a</item>
+        <item>arm64-v8a;Qt6QuickDialogs2_arm64-v8a</item>
+        <item>arm64-v8a;Qt6LabsFolderListModel_arm64-v8a</item>
     </array>
 
     <array name="load_local_libs">

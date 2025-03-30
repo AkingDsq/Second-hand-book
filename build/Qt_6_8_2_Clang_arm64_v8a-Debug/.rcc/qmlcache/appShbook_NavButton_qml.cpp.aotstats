@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 352,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "Cannot access value for name iconSource",
+                        "functionName": "source",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 638,
+                        "errorMessage": "",
+                        "functionName": "sourceSize",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name isActive",
+                        "functionName": "opacity",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 299,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name isActive",
+                        "functionName": "color",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 497,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 35
+                    }
+                ],
+                "filepath": "D:/git/work/Shbook/NavButton.qml"
+            }
+        ],
+        "moduleId": "Shbook(appShbook)"
+    }
+]

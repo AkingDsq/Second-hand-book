@@ -5,3 +5,10 @@ D:/git/work/Shbook/build/Qt_6_8_2_Clang_arm64_v8a-Debug/.qt/rcc/appShbook_raw_qm
 /qt/qml/Shbook/Main.qml
 /qt/qml/Shbook/Home.qml
 /qt/qml/Shbook/LoginOn.qml
+/qt/qml/Shbook/HomePage.qml
+/qt/qml/Shbook/PublishPage.qml
+/qt/qml/Shbook/MessagesPage.qml
+/qt/qml/Shbook/ProfilePage.qml
+/qt/qml/Shbook/ChatItemDelegate.qml
+/qt/qml/Shbook/ChatDetailPage.qml
+/qt/qml/Shbook/MessageDelegate.qml
