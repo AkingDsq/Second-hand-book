@@ -59,11 +59,20 @@ ApplicationWindow {
             ColumnLayout {
                 anchors.centerIn: parent
                 spacing: 2
-                Image {
-                    Layout.alignment: Qt.AlignHCenter
-                    source: tabBar.currentIndex === 0 ? "qrc:/images/home_active.png" : "qrc:/images/home.png"
+                // Image {
+                //     Layout.alignment: Qt.AlignHCenter
+                //     source: tabBar.currentIndex === 0 ? "qrc:/images/home_active.png" : "qrc:/images/home.png"
+                //     width: 24
+                //     height: 24
+                // }
+
+                Item {
                     width: 24
                     height: 24
+                    Text {
+                        anchors.centerIn: parent
+                        text: "🏡"
+                    }
                 }
                 Label {
                     text: "主页"
@@ -79,11 +88,19 @@ ApplicationWindow {
             ColumnLayout {
                 anchors.centerIn: parent
                 spacing: 2
-                Image {
-                    Layout.alignment: Qt.AlignHCenter
-                    source: tabBar.currentIndex === 1 ? "qrc:/images/publish_active.png" : "qrc:/images/publish.png"
+                // Image {
+                //     Layout.alignment: Qt.AlignHCenter
+                //     source: tabBar.currentIndex === 1 ? "qrc:/images/publish_active.png" : "qrc:/images/publish.png"
+                //     width: 24
+                //     height: 24
+                // }
+                Item {
                     width: 24
                     height: 24
+                    Text {
+                        anchors.centerIn: parent
+                        text: "📤️"
+                    }
                 }
                 Label {
                     text: "发布"
@@ -99,11 +116,19 @@ ApplicationWindow {
             ColumnLayout {
                 anchors.centerIn: parent
                 spacing: 2
-                Image {
-                    Layout.alignment: Qt.AlignHCenter
-                    source: tabBar.currentIndex === 2 ? "qrc:/images/message_active.png" : "qrc:/images/message.png"
+                // Image {
+                //     Layout.alignment: Qt.AlignHCenter
+                //     source: tabBar.currentIndex === 2 ? "qrc:/images/message_active.png" : "qrc:/images/message.png"
+                //     width: 24
+                //     height: 24
+                // }
+                Item {
                     width: 24
                     height: 24
+                    Text {
+                        anchors.centerIn: parent
+                        text: "✉️"
+                    }
                 }
                 Label {
                     text: "消息"
@@ -119,11 +144,19 @@ ApplicationWindow {
             ColumnLayout {
                 anchors.centerIn: parent
                 spacing: 2
-                Image {
-                    Layout.alignment: Qt.AlignHCenter
-                    source: tabBar.currentIndex === 3 ? "qrc:/images/profile_active.png" : "qrc:/images/profile.png"
+                // Image {
+                //     Layout.alignment: Qt.AlignHCenter
+                //     source: tabBar.currentIndex === 3 ? "qrc:/images/profile_active.png" : "qrc:/images/profile.png"
+                //     width: 24
+                //     height: 24
+                // }
+                Item {
                     width: 24
                     height: 24
+                    Text {
+                        anchors.centerIn: parent
+                        text: "👤"
+                    }
                 }
                 Label {
                     text: "我的"

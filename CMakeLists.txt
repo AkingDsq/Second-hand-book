@@ -29,9 +29,18 @@ qt_add_qml_module(appShbook
         QML_FILES ChatItemDelegate.qml
         QML_FILES ChatDetailPage.qml
         QML_FILES MessageDelegate.qml
+        RESOURCES resources/images.qrc
+        RESOURCES resources/images/computer_principle.png resources/images/discrete_math.png
 )
 
-# Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
+# 添加资源文件
+qt_add_resources(appShbook
+    PREFIX "/"
+    BASE "resources"  # 指定资源根目录
+    FILES
+        "resources/images.qrc"  # 完整相对路径
+)
+
 # If you are developing for iOS or macOS you should consider setting an
 # explicit, fixed bundle identifier manually though.
 set_target_properties(appShbook PROPERTIES

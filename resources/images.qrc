@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/computer_principle.png</file>
+        <file>images/discrete_math.png</file>
+    </qresource>
+</RCC>

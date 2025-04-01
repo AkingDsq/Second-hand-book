@@ -478,7 +478,7 @@ Page {
                         // Delegate contains different layouts for odd and even indices
                         Rectangle {
                             width: (parent.width - 10) / 2
-                            height: 220
+                            height: 250  // Increased height to give more space for the image
                             radius: 8
                             color: "white"
                             border.color: "#EEEEEE"
@@ -494,32 +494,82 @@ Page {
 
                                 // Book cover with colored background
                                 Rectangle {
+                                    id: coverRect
                                     width: parent.width
-                                    height: 140
+                                    height: 170
                                     radius: 6
                                     color: model.coverColor
 
-                                    // Book image container
-                                    Rectangle {
+                                    // Book image directly in the colored background
+                                    Image {
+                                        id: bookCover
                                         anchors.centerIn: parent
-                                        width: parent.isOdd ? 70 : 60
-                                        height: parent.isOdd ? 90 : 80
-                                        radius: 5
-                                        color: Qt.lighter(model.coverColor, 1.2)
-                                        border.color: Qt.darker(model.coverColor, 1.1)
-                                        border.width: 1
+                                        width: parent.width * 0.85
+                                        height: parent.height * 0.85
+                                        source: model.imagePath  // Use the path directly without modification
+                                        fillMode: Image.PreserveAspectFit
+                                        asynchronous: true
+                                        cache: true
 
-                                        // Different icon positioning based on odd/even
-                                        Item {
-                                            anchors.fill: parent
+                                        // 更强的调试输出
+                                        Component.onCompleted: {
+                                            console.log("尝试加载图片:", source)
+                                            console.log("当前应用目录:", Qt.application.directory)  // 这个属性在多数 Qt 版本中可用
+                                        }
 
-                                            Text {
-                                                anchors.centerIn: parent
-                                                text: "📖"
-                                                font.pixelSize: parent.parent.parent.isOdd ? 36 : 32
-                                                rotation: parent.parent.parent.isOdd ? -5 : 0
+                                        onStatusChanged: {
+                                            if (status === Image.Ready) {
+                                                console.log("图片加载成功:", source)
+                                            } else if (status === Image.Error) {
+                                                console.log("图片加载失败:", source, "错误原因可能是路径错误或资源未正确打包")
+                                            } else if (status === Image.Loading) {
+                                                console.log("图片正在加载中:", source)
                                             }
                                         }
+
+                                        // Loading indicator
+                                        BusyIndicator {
+                                            anchors.centerIn: parent
+                                            running: bookCover.status === Image.Loading
+                                            width: 24
+                                            height: 24
+                                        }
+
+                                        // Error state handler
+                                        Rectangle {
+                                            anchors.fill: parent
+                                            color: "#F0F0F0"
+                                            visible: bookCover.status === Image.Error
+
+                                            Column {
+                                                anchors.centerIn: parent
+                                                spacing: 4
+
+                                                Text {
+                                                    anchors.horizontalCenter: parent.horizontalCenter
+                                                    text: "封面加载失败"
+                                                    color: "#666666"
+                                                }
+
+                                                Text {
+                                                    anchors.horizontalCenter: parent.horizontalCenter
+                                                    text: bookCover.source.toString()
+                                                    color: "#999999"
+                                                    font.pixelSize: 10
+                                                    width: parent.width - 10
+                                                    wrapMode: Text.WrapAnywhere
+                                                    horizontalAlignment: Text.AlignHCenter
+                                                }
+                                            }
+                                        }
+                                    }
+
+                                    // Fallback icon if no image or while loading
+                                    Text {
+                                        anchors.centerIn: parent
+                                        text: "📚"
+                                        font.pixelSize: 40
+                                        visible: bookCover.status !== Image.Ready
                                     }
                                 }
 
@@ -584,19 +634,21 @@ Page {
                     id: recommendedBooksModel
 
                     ListElement {
-                        title: "百年孤独"
+                        title: "微机原理"
                         price: "¥25"
                         condition: "九成新"
                         location: "北京海淀"
                         coverColor: "#FFE4E1"
+                        imagePath: ":/images/computer_principle.png"  // Try with explicit qrc: prefix
                     }
 
                     ListElement {
-                        title: "数据结构与算法分析"
+                        title: "离散数学"
                         price: "¥38"
                         condition: "八成新"
                         location: "上海闵行"
                         coverColor: "#E6F3FF"
+                        imagePath: ":/images/discrete_math.png"  // Try with explicit qrc: prefix
                     }
 
                     ListElement {
